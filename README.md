@@ -3,15 +3,15 @@
 
 Building a digital service follows 5 common phases. Each of these phases are geared towards delivering for user needs.
 
-[Alignment](https://github.com/bcgov/Agile-Delivery-Process/blob/master/Alignment.md): Creating the foundations to deliver a service
+[Alignment](https://github.com/bcgov/Agile-Delivery-Process/blob/master/01_Alignment.md): Creating the foundations to deliver a service
 
-[Discovery](https://github.com/bcgov/Agile-Delivery-Process/blob/master/Discovery.md): Conducting user research to understand people’s needs
+[Discovery](https://github.com/bcgov/Agile-Delivery-Process/blob/master/02_Discovery.md): Conducting user research to understand people’s needs
 
-[Alpha](https://github.com/bcgov/Agile-Delivery-Process/blob/master/Alpha.md): Developing and testing our hypotheses with users
+[Alpha](https://github.com/bcgov/Agile-Delivery-Process/blob/master/03_Alpha.md): Developing and testing our hypotheses with users
 
-[Beta](https://github.com/bcgov/Agile-Delivery-Process/blob/master/Beta.md): Developing a minimum viable service and making it available to the public
+[Beta](https://github.com/bcgov/Agile-Delivery-Process/blob/master/04_Beta.md): Developing a minimum viable service and making it available to the public
 
-[Live](https://github.com/bcgov/Agile-Delivery-Process/blob/master/Live.md): Continuing to improve based on user feedback
+[Live](https://github.com/bcgov/Agile-Delivery-Process/blob/master/05_Live.md): Continuing to improve based on user feedback
 
 
 **NOTE: The content in this repository is a work in progress and open for contribution. Initial content has been kept to a minimum to provide the space for additional content to develop. Please contribute your expertise and knowledge.**
