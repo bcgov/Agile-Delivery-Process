@@ -1,5 +1,5 @@
 # Agile Delivery Process
-An agile process for teams to deliver digital services
+## An agile process for teams to deliver digital services
 
 Building a digital service follows 5 common phases. Each of these phases are geared towards delivering for user needs.
 
