@@ -12,7 +12,7 @@ In Discovery you will:
 - ask users what they want in a service
 - check if there are existing or non-governmental services that meet user needs
 - identify policies and other barriers that will make meeting user needs difficult
-- conduct a gender-based analysis plus to assess how diverse groups of women, men and non-binary people along with other identity factors such as race, ethnicity, religion, age, and mental or physical disability may experience or be impacted by your service differently.
+- conduct a policy review using the [Gender-Based Analysis Plus (GBA+)](https://cfc-swc.gc.ca/gba-acs/course-cours-en.html) framework to assess how diverse groups of women, men and non-binary people along with other identity factors such as race, ethnicity, religion, age, and mental or physical disability may experience or be impacted by your service differently.
 - identify how impairments might affect your users -- for example, visual, hearing, motor and cognitive (memory and thinking) impairments
 - document the research and findings through artefacts such as journey maps, service blueprints and personas.
 
