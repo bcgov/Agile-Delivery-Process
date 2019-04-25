@@ -1,3 +1,5 @@
+https://img.shields.io/badge/DRAFT-Discussion-blue.svg
+
 # Alignment
 
 ## What is Alignment?
