@@ -12,3 +12,10 @@ Building a digital service follows 5 common phases. Each of these phases are gea
 [Beta](https://github.com/bcgov/Agile-Delivery-Process/blob/master/Beta.md): Developing a minimum viable service and making it available to the public
 
 [Live](https://github.com/bcgov/Agile-Delivery-Process/blob/master/Live.md): Continuing to improve based on user feedback
+
+
+-----
+This content has been adapted from [Gov.UK Service Manual](https://www.gov.uk/service-manual/agile-delivery) under the Open Government Licence v3.0, [Ontario Service Design Playbook](https://www.ontario.ca/page/service-design-playbook) © Queen's Printer for Ontario, 2019, and the [Government of Australia Service Design and Delivery Processs](https://guides.service.gov.au/topics/service-design-delivery-process/) under the CC BY 4.0 license
+
+
+
