@@ -13,7 +13,7 @@ In Alignment you will:
 
 - review the phases of Discovery, Alpha, Beta, Live
 - determine who needs to be involved at a team, partnership, and executive level
-- submit a Privacy Impact Assessment to conduct research
+- submit a [Privacy Impact Assessment](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/privacy/privacy-impact-assessments?keyword=privacy&keyword=impact&keyword=assessment) to conduct research
 - find a space for your product team to co-locate
 
 ## What do you have at the end of Alignment?
@@ -24,6 +24,6 @@ By the end of Alignment, expect to have:
 - an understanding who will be on the team for Discovery
 - a co-located space for the team
 - funding secured to support all phases
-- budget allocated for research activities including travel and stipends for research participants.
+- budget allocated for research activities including stipends for research participants and travel.
 - formed any governance or oversight bodies that are required
-- a completed Privacy Impact Assessment for research activities
+- a completed [Privacy Impact Assessment](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/privacy/privacy-impact-assessments?keyword=privacy&keyword=impact&keyword=assessment) for research activities
