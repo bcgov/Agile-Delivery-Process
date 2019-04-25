@@ -29,7 +29,7 @@ By the end of beta, expect to have:
 
 - a fully functional version of the service for public use that adequately meets user needs
 - completed the backlog of features for the service
-- evidence that your service meets [government accessibility requirements for WCAG AA 2.0](https://www2.gov.bc.ca/gov/content/home/accessibility)
+- evidence that your service meets government [accessibility requirements for WCAG AA 2.0](https://www2.gov.bc.ca/gov/content/home/accessibility)
 
 ## Before going Live
 
@@ -39,6 +39,6 @@ Your service is ready to go Live when you are sure:
 - you’re securing the service’s information and data collection
 - you’ve set up your analytics to accurately measure the success of your service
 - the service meets government [accessibility requirements](https://www2.gov.bc.ca/gov/content/home/accessibility)
-- you’ve completed a privacy impact assessment for the service
-- you’ve completed a security threat and risk assessment for the service
+- you’ve completed a [Privacy Impact Assessment](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/privacy/privacy-impact-assessments?keyword=privacy&keyword=impact&keyword=assessment) for the service
+- you’ve completed a [Security Threat and Risk Assessment](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/security-threat-and-risk-assessment?keyword=security&keyword=threat&keyword=and&keyword=risk&keyword=assessment) for the service
 - you can support the service and you’ll be able to keep iterating it and improving it until it’s retired
