@@ -14,7 +14,7 @@ Building a digital service follows 5 common phases. Each of these phases are gea
 [Live](https://github.com/bcgov/Agile-Delivery-Process/blob/master/Live.md): Continuing to improve based on user feedback
 
 
-**NOTE: The content in this repository is a work in progress. Please contribute your thoughts, expertise, and knowledge.**
+**NOTE: The content in this repository is a work in progress and open for contribution. Initial content has been kept to a minimum to provide the space for additional content to develop. Please contribute your expertise and knowledge.**
 
 
 -----
