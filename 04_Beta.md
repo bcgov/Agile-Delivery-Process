@@ -1,3 +1,8 @@
+---
+title: Beta
+description: Developing a minimum viable service and making it available to the public
+---
+
 # Beta
 
 ## What is Beta?
