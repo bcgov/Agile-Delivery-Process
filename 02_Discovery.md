@@ -1,3 +1,8 @@
+---
+title: Discovery
+description: Conducting user research to understand people’s needs
+---
+
 # Discovery
 
 ## What is Discovery?
