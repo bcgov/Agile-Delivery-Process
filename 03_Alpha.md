@@ -1,3 +1,8 @@
+---
+title: Alpha
+description: Developing and testing our hypotheses with users
+---
+
 # Alpha
 
 ## What is Alpha?
