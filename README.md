@@ -8,15 +8,15 @@ description: An agile process for teams to deliver digital services
 
 Building a digital service follows 5 common phases. Each of these phases are geared towards delivering for user needs.
 
-[Alignment](../Alignment): Creating the foundations to deliver a service
+[Alignment](01_Alignment.md): Creating the foundations to deliver a service
 
-[Discovery](../Discovery): Conducting user research to understand people’s needs
+[Discovery](02_Discovery.md): Conducting user research to understand people’s needs
 
-[Alpha](../Alpha): Developing and testing our hypotheses with users
+[Alpha](03_Alpha.md): Developing and testing our hypotheses with users
 
-[Beta](../Beta): Developing a minimum viable service and making it available to the public
+[Beta](04_Beta.md): Developing a minimum viable service and making it available to the public
 
-[Live](../Live): Continuing to improve based on user feedback
+[Live](05_Live.md): Continuing to improve based on user feedback
 
 
 **NOTE: The content in this repository is a work in progress and open for contribution. Initial content has been kept to a minimum to provide the space for additional content to develop. Please contribute your expertise and knowledge.**
