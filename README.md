@@ -4,19 +4,18 @@ description: An agile process for teams to deliver digital services
 ---
 
 # Agile Delivery Process
-## An agile process for teams to deliver digital services
 
 Building a digital service follows 5 common phases. Each of these phases are geared towards delivering for user needs.
 
-[Alignment](01_Alignment.md): Creating the foundations to deliver a service
+[Alignment](https://developer.gov.bc.ca/Agile-Delivery-Process/Alignment): Creating the foundations to deliver a service
 
-[Discovery](02_Discovery.md): Conducting user research to understand people’s needs
+[Discovery](https://developer.gov.bc.ca/Agile-Delivery-Process/Discovery): Conducting user research to understand people’s needs
 
-[Alpha](03_Alpha.md): Developing and testing our hypotheses with users
+[Alpha](https://developer.gov.bc.ca/Agile-Delivery-Process/Alpha): Developing and testing our hypotheses with users
 
-[Beta](04_Beta.md): Developing a minimum viable service and making it available to the public
+[Beta](https://developer.gov.bc.ca/Agile-Delivery-Process/Beta): Developing a minimum viable service and making it available to the public
 
-[Live](05_Live.md): Continuing to improve based on user feedback
+[Live](https://developer.gov.bc.ca/Agile-Delivery-Process/Live): Continuing to improve based on user feedback
 
 
 **NOTE: The content in this repository is a work in progress and open for contribution. Initial content has been kept to a minimum to provide the space for additional content to develop. Please contribute your expertise and knowledge.**
